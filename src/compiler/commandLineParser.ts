@@ -294,6 +294,11 @@ namespace ts {
             name: "allowJs",
             type: "boolean",
             description: Diagnostics.Allow_javascript_files_to_be_compiled
+        },
+        {
+            name: "maxNodeSearchJsDepth",
+            type: "number",
+            description: Diagnostics.The_maximum_depth_of_JavaScript_modules_to_load_by_searching_node_modules
         }
     ];
 

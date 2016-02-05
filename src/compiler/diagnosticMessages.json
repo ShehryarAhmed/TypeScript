@@ -2445,6 +2445,10 @@
         "category": "Message",
         "code": 6084
     },
+    "The maximum depth of JavaScript modules to load by searching node_modules": {
+        "category": "Message",
+        "code": 6085
+    },
 
     "Variable '{0}' implicitly has an '{1}' type.": {
         "category": "Error",
